@@ -1,0 +1,43 @@
+﻿{
+  "schema_version": "shipreadyv2.customer_analysis_status.v10",
+  "runner_version": "shipreadyv2.customer_mvp.v10",
+  "updated_at": "2026-11-04T19:42:42.441895+00:00",
+  "analysis_directory": "C:\\Users\\<USER>\\Documents\\GitHub\\taskflow-pro\\unvibecode_results\\flask-test-unvibecode-analysis-20261105_011242",
+  "repository": "C:\\Users\\<USER>\\Documents\\GitHub\\taskflow-pro\\flask-test",
+  "engine_root": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\unvibecode-engine-_5df6db1\\engine",
+  "repository_estimate": {
+    "method": "supported_source_bytes_divided_by_3.2",
+    "source_files": 105,
+    "source_bytes": 622332,
+    "approximate_tokens": 194479,
+    "unreadable_files": []
+  },
+  "large_repository_policy": {
+    "limit_tokens": 2000000,
+    "is_large_repository": false,
+    "decision": "CONNECTED_CODE_MAP_AND_BUSINESS_REVIEW"
+  },
+  "overall_status": "RUNNING",
+  "lanes": {
+    "FAST_LANE": {
+      "status": "WAITING",
+      "message": "Waiting to prepare the Connected Code Map for LLMs",
+      "started_at": null,
+      "completed_at": null,
+      "duration_seconds": null,
+      "run_folder": null,
+      "artifacts": {},
+      "error": null
+    },
+    "FULL_ANALYSIS": {
+      "status": "WAITING",
+      "message": "Waiting to start the Business Workflow & Risk Review",
+      "started_at": null,
+      "completed_at": null,
+      "duration_seconds": null,
+      "run_folder": null,
+      "artifacts": {},
+      "error": null
+    }
+  }
+}

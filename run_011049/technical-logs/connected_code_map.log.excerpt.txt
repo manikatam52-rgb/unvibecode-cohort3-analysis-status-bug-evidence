@@ -1,0 +1,8 @@
+﻿Profile JSON:  C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\c\run\fast_lane_repository_profile.json
+Resolved JSON: C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\c\run\shipreadyv2_resolved_graph.json
+Symbol graph:  C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\c\run\fast_lane_symbol_resolution_graph.html
+Click downloads: 102 files, 482 code sections, prepared in 0.219s
+Context JSON:  C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\c\run\fast_lane_context_store.json
+Complete ZIP:  C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\c\run\shipready_complete_repository_context.zip
+Context timing: {'code_sections': 0.094, 'connections': 0.016, 'download_selections': 0.031, 'browser_store': 0.0, 'zip_bundle': 0.047}
+Timing:        {'graph_build_seconds': 0.281, 'linker_seconds': 0.281, 'context_download_preparation_seconds': 0.219, 'html_render_seconds': 1.516, 'fast_lane_total_seconds': 2.297}

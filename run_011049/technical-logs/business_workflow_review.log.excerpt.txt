@@ -1,0 +1,12 @@
+﻿Results:    C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\b\run\shipreadyv2_pass1_full_results.jsonl
+Trace:      C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\b\run\shipreadyv2_pass1_full_trace.jsonl
+Artifacts:  C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\b\run\shipreadyv2_pass1_full_artifacts
+Errors:     C:\Users\<USER>\AppData\Local\Temp\uvc-iuz8rq2p\b\run\shipreadyv2_pass1_full_errors.jsonl
+
+Traceback (most recent call last):
+  File "C:\Users\<USER>\AppData\Local\Programs\Python\Python312\Lib\site-packages\shipreadyv2\customer_runner.py", line 1760, in run_full_analysis_worker
+    require_step_three_results(report_folder)
+  File "C:\Users\<USER>\AppData\Local\Programs\Python\Python312\Lib\site-packages\shipreadyv2\customer_runner.py", line 1166, in require_step_three_results
+    raise CustomerRunError(f"Step 03 produced no usable results: {suffix}")
+shipreadyv2.customer_runner.CustomerRunError: Step 03 produced no usable results: completion=FAILED, successful=0, failed=8; last request error=RateLimitError: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}
+

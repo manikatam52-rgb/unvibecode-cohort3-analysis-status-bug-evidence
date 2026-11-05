@@ -1,0 +1,9 @@
+﻿{
+  "updated_at": "2026-11-04T19:41:15.745224+00:00",
+  "updated_epoch": 1793821275.7452247,
+  "percent": 20,
+  "phase": "FAILED",
+  "message": "Needs attention",
+  "detail": "The hosted analysis service has exhausted its API credits. Available results were preserved; retry after service credits are restored.",
+  "report_folder": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\uvc-iuz8rq2p\\b\\run"
+}
